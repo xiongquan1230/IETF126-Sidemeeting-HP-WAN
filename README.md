@@ -25,10 +25,18 @@ The primary agenda is shown as below.
 Related drafts:
 
 https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
+
 https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
+
 https://datatracker.ietf.org/doc/draft-xz-spring-srv6-rate-control/
+
 https://datatracker.ietf.org/doc/draft-xz-6man-rate-option/
+
 https://datatracker.ietf.org/doc/draft-xz-rtgwg-srv6-rate-notification/
-draft-xkk-teas-hpc-scheduler-job-metadata-00 
+
+draft-xkk-teas-hpc-scheduler-job-metadata-00
+
 draft-xkk-teas-hpc-service-intent-00
+
 draft-xkk-teas-hpc-tunnel-realization-00
+
