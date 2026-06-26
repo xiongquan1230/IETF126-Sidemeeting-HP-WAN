@@ -18,7 +18,7 @@ The primary agenda is shown as below.
 
 4,HP-WAN/HPC/AI Service Intent/Job Scheduler Model, Daniel King, 15mins
 
-5, HP-WAN Rate-based SRv6 congestion control ,Quan Xiong, 15mins
+5,Rate-based SRv6 congestion control ,Quan Xiong, 15mins
 
 6,Open Issues Discussion, 30min
 
