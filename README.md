@@ -6,21 +6,19 @@ Location: Park Suite 4‌
 
 IETF Webex: https://ietf.webex.com/meet/sidemeetings1
 
-Meeting Host: Daniel Huang/Daniel King
+Meeting Host: Daniel Huang/Quan Xiong
 
 The primary agenda is shown as below.
 
 1,Note well, welcome statements, introduction and agenda bash. 5mins
 
-2, Scale-across Architecture and solutions, Jinming Li, 15mins
+2,HP-WAN Documents Updates (State-Of-The-Art and Framework), Guangping Huang/Daniel King, 10mins
 
-3,HP-WAN Documents Updates (State-Of-The-Art and Framework), Guangping Huang, 10mins
+3, Scale-across Architecture and solutions, Jinming Li, 15mins
 
-4,HP-WAN/HPC/AI Service Intent/Job Scheduler Model, Daniel King, 15mins
+4,Rate-based SRv6 congestion control ,Quan Xiong, 15mins
 
-5,Rate-based SRv6 congestion control ,Quan Xiong, 15mins
-
-6,Open Issues Discussion, 30min
+5,Open Issues Discussion, 30min
 
 Related drafts:
 
@@ -34,9 +32,4 @@ https://datatracker.ietf.org/doc/draft-xz-6man-rate-option/
 
 https://datatracker.ietf.org/doc/draft-xz-rtgwg-srv6-rate-notification/
 
-https://datatracker.ietf.org/doc/draft-xkk-teas-hpc-scheduler-job-metadata/
-
-https://datatracker.ietf.org/doc/draft-xkk-teas-hpc-service-intent/
-
-https://datatracker.ietf.org/doc/draft-xkk-teas-hpc-tunnel-realization/
 
