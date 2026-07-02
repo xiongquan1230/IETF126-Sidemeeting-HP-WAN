@@ -1,8 +1,8 @@
 We're planning to have a side meeting at IETF 126: High-performance WAN. This side meeting will focus on the HP-WAN Updates, HPC/AI service intent, Rate-based SRv6, Scale-across and following up the discussions upon IETF125 Hackathon.
 
-Time: 
+Time:  ‌Tuesday, July 21st, 9:30-11:00 (Vienna)
 
-Location: 
+Location: Park Suite 4‌
 
 IETF Webex: https://ietf.webex.com/meet/sidemeetings1
 
@@ -34,9 +34,9 @@ https://datatracker.ietf.org/doc/draft-xz-6man-rate-option/
 
 https://datatracker.ietf.org/doc/draft-xz-rtgwg-srv6-rate-notification/
 
-draft-xkk-teas-hpc-scheduler-job-metadata-00
+https://datatracker.ietf.org/doc/draft-xkk-teas-hpc-scheduler-job-metadata/
 
-draft-xkk-teas-hpc-service-intent-00
+https://datatracker.ietf.org/doc/draft-xkk-teas-hpc-service-intent/
 
-draft-xkk-teas-hpc-tunnel-realization-00
+https://datatracker.ietf.org/doc/draft-xkk-teas-hpc-tunnel-realization/
 
