@@ -6,7 +6,7 @@ Location: Park Suite 4‌
 
 IETF Webex: https://ietf.webex.com/meet/sidemeetings1
 
-Meeting Host: Daniel Huang/Quan Xiong
+Meeting Host: Daniel Huang/Yisong Liu
 
 The primary agenda is shown as below.
 
@@ -26,7 +26,7 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 
 https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
 
-https://datatracker.ietf.org/doc/draft-xz-spring-srv6-rate-control/
+https://datatracker.ietf.org/doc/draft-lx-spring-srv6-rate-control/
 
 https://datatracker.ietf.org/doc/draft-xz-6man-rate-option/
 
