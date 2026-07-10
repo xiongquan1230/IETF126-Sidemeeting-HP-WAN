@@ -1,6 +1,6 @@
 We're planning to have a side meeting at IETF 126: High-performance WAN. This side meeting will focus on the HP-WAN Updates, Rate-based SRv6, Scale-across and following up the discussions upon IETF125 Hackathon.
 
-Time:  ‌Tuesday, July 21st, 9:30-11:00 (Vienna)
+Time:  ‌Wednesday, July 22st, 12:30-14:00(Vienna)， 18:30-20:00（Beijing）
 
 Location: Park Suite 4‌
 
