@@ -6,7 +6,7 @@ Location: Park Suite 4‌
 
 IETF Webex: https://ietf.webex.com/meet/sidemeetings1
 
-Meeting Host: Daniel Huang/Yisong Liu
+Meeting Host: Daniel Huang/Daniel King
 
 The primary agenda is shown as below.
 
