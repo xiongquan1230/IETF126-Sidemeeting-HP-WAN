@@ -32,4 +32,13 @@ https://datatracker.ietf.org/doc/draft-xz-6man-rate-option/
 
 https://datatracker.ietf.org/doc/draft-xz-rtgwg-srv6-rate-notification/
 
+https://datatracker.ietf.org/doc/draft-lll-srv6ops-dci-srv6-lb/
+
+https://datatracker.ietf.org/doc/draft-ll-idr-flowspec-redirect-sidlist/
+
+https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/
+
+https://datatracker.ietf.org/doc/draft-yang-6man-wide-area-packet-spraying/
+
+
 
